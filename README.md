@@ -23,3 +23,8 @@ while building the project. I gained hands-on experience of working with Python 
 
 ### How To Run 
 Please clone the repositoy and run `python main.py`.
+
+
+### Image 
+![Screenshot from 2024-08-26 22-01-36](https://github.com/user-attachments/assets/620c30ef-38a4-451d-8954-fdac9bcf34bb)
+
