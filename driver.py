@@ -76,8 +76,7 @@ def run():
                         status = input("Enter bowl status: ")
                         if len(status)== 1: 
                                 try: 
-                                        run = int(status[0])
-                                        if run > 6:
+                                        if not status[0].isalpha() and int(status[0]) > 6:
                                                 print('Run must be within 6')
                                                 print()
                                                 continue
@@ -136,8 +135,7 @@ def run():
                 status = input("Enter bowl status: ")
                 if len(status)== 1: 
                         try: 
-                                run = int(status[0])
-                                if run > 6:
+                                if not status[0].isalpha() and int(status[0]) > 6:
                                         print('Run must be within 6')
                                         print()
                                         continue
