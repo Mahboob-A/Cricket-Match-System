@@ -22,7 +22,20 @@ It was one of my initial project in Python that I am proud of. I was learning OO
 while building the project. I gained hands-on experience of working with Python classes and objects. It gave me boost to my confidence as it was not so long I was learning to conde in Python transitioning from C++. As today I work on various complex backend projects in Django, I owe to some of these CLI projects that taught me Python OOP with hands on experience. 
 
 ### How To Run 
-Please clone the repositoy and run `python main.py`.
+- Please clone the repositoy and run `python main.py`.
+
+- Follow the instructions
+
+- RUN: 1 to 6
+
+- Wicket: `W`
+
+- WideBacll: `Wrun`
+    - Example: `W2` - `W` indicates `Wide Ball`, and the attached `INT` value of 2 indicates the run obtained in this wide ball.
+    - NOTE: A singe `W` indicates `Wicket`. 
+
+ - NoBall: `Nrun`
+     - Example: `N3` - `N` indicates the `No Ball`, and the attched `INT` value of 3 indicates the run obtained in this no ball.  
 
 
 ### Image 
